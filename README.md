@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IanWik
 - 👀 I’m interested in Data Science, Machine Learning, Big Data...
 - 🌱 I’m currently learning Computer Science in UFABC
-- 💞️ I’m looking to collaborate on any projects with Python
+- 💞️ I’m looking to collaborate on any projects with Python, SQL, Java or C.
 - 📫 How to reach me: email - ianrstcosta@gmail.com
 
 <!---
